@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+table {
+    margin-left: 75px;
+    font-size: 30px;
+}
+a {
+    font-family: fantasy;
+    margin: 16px auto;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: white;
+    color:black;
+    display: block;
+}
